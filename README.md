@@ -1,13 +1,25 @@
 # LayerZero audit details
-- Total Prize Pool: $103000 in USDC
-  - HM awards: up to $96000 USDC (Notion: HM (main) pool)
+- Total Prize Pool: $103,000 in USDC
+  - HM awards: up to $96,000 in USDC
     - If no valid Highs or Mediums are found, the HM pool is $0 
-  - QA awards: $4000 in USDC
-  - Judge awards: $2500 in USDC
-  - Scout awards: $500 in USDC
+  - QA awards: $4,000 in USDC
+  - Judge awards: $3,000 in USDC
 - [Read our guidelines for more details](https://docs.code4rena.com/competitions)
-- Starts XXX XXX XX 20:00 UTC (ex. `Starts March 22, 2023 20:00 UTC`)
-- Ends XXX XXX XX 20:00 UTC (ex. `Ends March 30, 2023 20:00 UTC`)
+- Starts September 15, 2025 20:00 UTC
+- Ends September 30, 2025 20:00 UTC
+
+
+# Overview
+
+[ ⭐️ SPONSORS: add info here ]
+
+## Links
+
+- **Previous audits:**  https://github.com/LayerZero-Labs/Audits
+- **Documentation:** https://docs.layerzero.network/v2
+- **Website:** [LayerZero.network](https://layerzero.network/)
+- **X/Twitter:** [@layerzero_core](https://x.com/layerzero_core)
+
 
 ## Automated Findings / Publicly Known Issues
 
