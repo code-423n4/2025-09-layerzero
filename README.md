@@ -34,10 +34,13 @@ _Note for C4 wardens: Anything included in this `Automated Findings / Publicly K
 - contracts/workers/dvns/dvn/sources
 - contracts/workers/dvns/dvn-call-type/sources
 - contracts/workers/dvns/dvn-layerzero/sources
+- contracts/workers/executors/executor-call-type/sources
+- contracts/workers/executors/executor-fee-lib/sources
+- contracts/workers/executors/executor-layerzero/sources
+- contracts/workers/executors/executor/sources
 - contracts/oapps/oapp/sources
 - contracts/oapps/oft/oft/sources
 - contracts/oapps/oft/oft-composer-common/sources
-
 
 # Additional context
 
