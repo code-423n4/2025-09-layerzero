@@ -1,0 +1,16 @@
+[package]
+name = "OFTComposerCommon"
+version = "0.0.1"
+edition = "2024.beta"
+license = "MIT"
+
+[dependencies]
+Call = { local = "../../../call" }
+Utils = { local = "../../../utils" }
+
+[addresses]
+oft_composer_common = "0x0"
+
+[dev-dependencies]
+
+[dev-addresses]

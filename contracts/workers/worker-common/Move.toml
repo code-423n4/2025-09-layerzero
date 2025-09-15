@@ -1,0 +1,16 @@
+[package]
+name = "WorkerCommon"
+version = "0.0.1"
+edition = "2024.beta"
+license = "MIT"
+
+[dependencies]
+Utils = { local = "../../utils" }
+Call = { local = "../../call" }
+
+[addresses]
+worker_common = "0x0"
+
+[dev-dependencies]
+
+[dev-addresses] 

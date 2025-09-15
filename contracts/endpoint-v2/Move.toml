@@ -1,0 +1,18 @@
+[package]
+name = "EndpointV2"
+version = "0.0.1"
+edition = "2024.beta" # edition = "legacy" to use legacy (pre-2024) Move
+license = "MIT"       # e.g., "MIT", "GPL", "Apache 2.0"
+
+[dependencies]
+Zro = { local = "../zro" }
+Call = { local = "../call" }
+Utils = { local = "../utils" }
+
+[addresses]
+endpoint_v2 = "0x0"
+
+[dev-dependencies]
+
+
+[dev-addresses]

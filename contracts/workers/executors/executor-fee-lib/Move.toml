@@ -1,0 +1,18 @@
+[package]
+name = "ExecutorFeeLib"
+edition = "2024.beta"
+version = "0.0.1"
+license = "MIT"
+
+[dependencies]
+Call = { local = "../../../call" }
+WorkerCommon = { local = "../../worker-common" }
+ExecutorCallType = { local = "../executor-call-type" }
+PriceFeedCallTypes = { local = "../../price-feed-call-types" }
+
+[addresses]
+executor_fee_lib = "0x0"
+
+[dev-dependencies]
+
+[dev-addresses]

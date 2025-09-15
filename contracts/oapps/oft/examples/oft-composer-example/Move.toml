@@ -1,0 +1,19 @@
+[package]
+name = "OFTComposerExample"
+version = "0.0.1"
+edition = "2024.beta" # edition = "legacy" to use legacy (pre-2024) Move
+license = "MIT"       # e.g., "MIT", "GPL", "Apache 2.0"
+
+[dependencies]
+PtbMoveCall = { local = "../../../../ptb-builders/ptb-move-call" }
+EndpointV2 = { local = "../../../../endpoint-v2" }
+OFT = { local = "../../oft" }
+OFTComposerCommon = { local = "../../oft-composer-common" }
+
+[addresses]
+oft_composer_example = "0x0"
+
+[dev-dependencies]
+
+[dev-addresses]
+

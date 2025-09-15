@@ -1,0 +1,16 @@
+[package]
+name = "SimpleMessageLib"
+edition = "2024.beta"
+version = "0.0.1"
+license = "MIT"
+
+[dependencies]
+MessageLibCommon = { local = "../message-lib-common", override = true }
+Utils = { local = "../../utils", override = true }
+
+[addresses]
+simple_message_lib = "0x0"
+
+[dev-dependencies]
+
+[dev-addresses]

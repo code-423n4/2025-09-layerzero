@@ -1,0 +1,17 @@
+[package]
+name = "EndpointPtbBuilder"
+edition = "2024.beta"
+version = "0.0.1"
+license = "MIT"
+
+[dependencies]
+EndpointV2 = { local = "../../endpoint-v2", override = true }
+PtbMoveCall = { local = "../ptb-move-call" }
+Call = { local = "../../call", override = true }
+
+[addresses]
+endpoint_ptb_builder = "0x0"
+
+[dev-dependencies]
+
+[dev-addresses]

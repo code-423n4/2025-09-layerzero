@@ -49,10 +49,47 @@ Some of the checklists in this doc are for our scouts and some of them are for *
 
 ## Automated Findings / Publicly Known Issues
 
-The 4naly3er report can be found [here](https://github.com/code-423n4/2025-09-layerzero/blob/main/4naly3er-report.md).
-
 _Note for C4 wardens: Anything included in this `Automated Findings / Publicly Known Issues` section is considered a publicly known issue and is ineligible for awards._
-## 🐺 C4: Begin Gist paste here (and delete this line)
 
+
+# Scope
+
+## Files in Scope:
+
+- contracts/call/sources
+- contracts/endpoint-v2/sources
+- contracts/utils/sources
+- contracts/zro/sources
+- contracts/message-libs/blocked-message-lib/sources
+- contracts/message-libs/message-lib-common/sources
+- contracts/message-libs/treasury/sources
+- contracts/message-libs/uln-302/sources
+- contracts/ptb-builders/ptb-move-call/sources
+- contracts/ptb-builders/endpoint-ptb-builder/sources
+- contracts/ptb-builders/msglib-ptb-builders/msglib-ptb-builder-call-types/sources
+- contracts/ptb-builders/msglib-ptb-builders/uln-302-ptb-builder/sources
+- contracts/workers/worker-common/sources
+- contracts/workers/dvns/dvn/sources
+- contracts/workers/dvns/dvn-call-type/sources
+- contracts/workers/dvns/dvn-layerzero/sources
+- contracts/oapps/oapp/sources
+- contracts/oapps/oft/oft/sources
+- contracts/oapps/oft/oft-composer-common/sources
+
+
+# Additional context
+
+## Areas of concern (where to focus for bugs)
+
+TBD
+
+## Main invariants
+
+TBD
+
+## Miscellaneous
+Employees of LayerZero and employees' family members are ineligible to participate in this audit.
+
+Code4rena's rules cannot be overridden by the contents of this README. In case of doubt, please check with C4 staff.
 
 

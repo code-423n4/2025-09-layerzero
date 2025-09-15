@@ -1,0 +1,20 @@
+[package]
+name = "Uln302PtbBuilder"
+edition = "2024.beta"
+version = "0.0.1"
+license = "MIT"
+
+[dependencies]
+EndpointPtbBuilder = { local = "../../endpoint-ptb-builder" }
+MsglibPtbBuilderCallTypes = { local = "../msglib-ptb-builder-call-types" }
+Uln302 = { local = "../../../message-libs/uln-302" }
+
+[addresses]
+uln_302_ptb_builder = "0x0"
+
+[dev-dependencies]
+EndpointV2 = { local = "../../../endpoint-v2" }
+Treasury = { local = "../../../message-libs/treasury" }
+Call = { local = "../../../call" }
+
+[dev-addresses]

@@ -1,0 +1,18 @@
+[package]
+name = "Dvn"
+version = "0.0.1"
+edition = "2024.beta"
+license = "MIT"
+
+[dependencies]
+WorkerCommon = { local = "../../worker-common" }
+Uln302 = { local = "../../../message-libs/uln-302" }
+MsglibPtbBuilderCallTypes = { local = "../../../ptb-builders/msglib-ptb-builders/msglib-ptb-builder-call-types" }
+DvnCallType = { local = "../dvn-call-type" }
+
+[addresses]
+dvn = "0x0"
+
+[dev-dependencies]
+
+[dev-addresses]
