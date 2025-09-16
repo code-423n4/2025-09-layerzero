@@ -5,7 +5,7 @@
   - QA awards: $4,000 in USDC
   - Judge awards: $3,000 in USDC
 - [Read our guidelines for more details](https://docs.code4rena.com/competitions)
-- Starts September 16, 2025 20:00 UTC
+- Starts September 17, 2025 20:00 UTC
 - Ends September 30, 2025 20:00 UTC
 
 
