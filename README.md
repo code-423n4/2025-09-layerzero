@@ -64,6 +64,8 @@ n/a
 
 - Make sure a message cannot be executed until all messages before it (in terms of nonces) have been delivered. Make sure a message can only be executed once.
 - Is the fee calculation in the msglib sound? If it differs between implementations, it may be unintended.
+- Make sure implementation prevents any interference between message channels so that OApps, including malicious ones, cannot affect other OApps' messages.
+- Make sure that if execution of a verified message fails, the message payload remains stored and available for re-execution or explicit clearing as needed.
 
 ## Main invariants
 
