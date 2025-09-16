@@ -1,4 +1,4 @@
-# LayerZero audit details
+# LayerZero V2 on Sui: audit details
 - Total Prize Pool: $103,000 in USDC
   - HM awards: up to $96,000 in USDC
     - If no valid Highs or Mediums are found, the HM pool is $0 
