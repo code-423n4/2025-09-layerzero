@@ -19,6 +19,7 @@ LayerZero's design ensures that the core protocol contracts are immutable and no
 
 - **Previous audits:**  https://github.com/LayerZero-Labs/Audits
 - **Documentation:** https://docs.layerzero.network/v2
+    - [LayerZero V2 on Sui: specification](https://github.com/code-423n4/2025-09-layerzero/blob/main/Specification_%20LayerZero%20V2%20on%20Sui.pdf)
 - **Website:** [LayerZero.network](https://layerzero.network/)
 - **X/Twitter:** [@layerzero_core](https://x.com/layerzero_core)
 
