@@ -35,22 +35,32 @@ n/a
 
 ## Files in Scope:
 
+Endpoint: 
 - contracts/call/sources
 - contracts/endpoint-v2/sources
 - contracts/utils/sources
 - contracts/zro/sources
+
+MessageLibs:
 - contracts/message-libs/blocked-message-lib/sources
 - contracts/message-libs/message-lib-common/sources
 - contracts/message-libs/treasury/sources
 - contracts/message-libs/uln-302/sources
+
+PTB Builders:
 - contracts/ptb-builders/ptb-move-call/sources
 - contracts/ptb-builders/endpoint-ptb-builder/sources
 - contracts/ptb-builders/msglib-ptb-builders/msglib-ptb-builder-call-types/sources
 - contracts/ptb-builders/msglib-ptb-builders/uln-302-ptb-builder/sources
+
+DVN:
 - contracts/workers/worker-common/sources
 - contracts/workers/dvns/dvn/sources
 - contracts/workers/dvns/dvn-call-type/sources
 - contracts/workers/dvns/dvn-layerzero/sources
+
+### Files out of scope 
+
 - contracts/workers/executors/executor-call-type/sources
 - contracts/workers/executors/executor-fee-lib/sources
 - contracts/workers/executors/executor-layerzero/sources
