@@ -11,7 +11,9 @@
 
 # Overview
 
-[ ⭐️ SPONSORS: add info here ]
+LayerZero is an omnichain interoperability protocol that enables smart contracts to read from and write state to different blockchains. Developers can build omnichain applications (OApps) that can send state transitions, value transfers, and call smart contracts on other networks as if they were on a single blockchain.
+
+LayerZero's design ensures that the core protocol contracts are immutable and non-upgradeable, ensuring your application continues to operate as expected indefinitely, while your contracts stay easily configurable and flexible to define each part of the protocol's message passing rails.
 
 ## Links
 
@@ -24,6 +26,8 @@
 ## Automated Findings / Publicly Known Issues
 
 _Note for C4 wardens: Anything included in this `Automated Findings / Publicly Known Issues` section is considered a publicly known issue and is ineligible for awards._
+
+n/a
 
 
 # Scope
@@ -58,11 +62,15 @@ _Note for C4 wardens: Anything included in this `Automated Findings / Publicly K
 
 ## Areas of concern (where to focus for bugs)
 
-TBD
+- Make sure a message cannot be executed until all messages before it (in terms of nonces) have been delivered. Make sure a message can only be executed once.
+- Is the fee calculation in the msglib sound? If it differs between implementations, it may be unintended.
+- Make sure implementation prevents any interference between message channels so that OApps, including malicious ones, cannot affect other OApps' messages.
+- Make sure that if execution of a verified message fails, the message payload remains stored and available for re-execution or explicit clearing as needed.
 
 ## Main invariants
 
-TBD
+- LayerZero should never have the ability to override user-set configuration.
+- In general, LayerZero should not be able to DOS in any way, in the case that protocols are not using default configuration.
 
 ## Miscellaneous
 Employees of LayerZero and employees' family members are ineligible to participate in this audit.
