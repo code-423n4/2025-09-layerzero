@@ -8,6 +8,13 @@
 - Starts September 17, 2025 20:00 UTC
 - Ends September 30, 2025 20:00 UTC
 
+**❗ Important notes for wardens**
+
+Judging phase risk adjustments (upgrades/downgrades):
+
+- High- or Medium-risk submissions downgraded by the judge to Low-risk (QA) will be ineligible for awards.
+- Upgrading a Low-risk finding from a QA report to a Medium- or High-risk finding is not supported.
+- As such, wardens are encouraged to select the appropriate risk level carefully during the submission phase.
 
 # Overview
 
