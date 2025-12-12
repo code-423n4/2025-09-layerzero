@@ -1,0 +1,91 @@
+==============================================================
+Guild: Code4rena
+Channel: ARCHIVE-PUBLIC / layerzero-sep
+==============================================================
+
+[09/15/2025 10:56] cloudellie
+👋 Hello and welcome to the $103,000 USDC LayerZero Endpoint V2 - Sui audit channel!
+
+📆 Audit opens Wednesday, 17 September 2025 (20:00 UTC) and runs through Tuesday, 30 September 2025 (20:00 UTC) (14 days).
+
+We'll be posting relevant links, documentation, etc. here, so if you intend to participate in this audit, consider enabling notifications for this channel. 🐺 ⏰
+
+Join the audit: https://code4rena.com/audits/2025-09-layerzero-endpoint-v2-sui
+
+{Reactions}
+🔥 (2) andbang (2) 
+
+[09/16/2025 18:19] cloudellie
+🔎 **Got audit-related questions? Here's your roadmap** 
+
+Find the information you need efficiently:
+
+1. Step 1: **Review project documentation** in the audit repo. [Join the audit](https://code4rena.com/audits/2025-09-layerzero-endpoint-v2-sui) for access.
+2. Step 2: Use **🤖 Docs Wolf,** C4's documentation bot assistant. Open a private thread, tag `@Docs Wolf`, and ask your question. The bot will make its best attempt to answer based on the codebase and documentation, and link you to relevant resources.
+
+**Please note: **
+- Docs Wolf will be available within 24-48 hours of launch. We'll post a note once it's live.
+- The LayerZero team is not available for questions, so the Q&A option has been disabled for this competition.
+
+Good hunting!
+
+{Reactions}
+👀 (4) 👍 (4) 
+
+[09/17/2025 09:16] cloudellie
+GM wardens 🌄  @Docs Wolf is now available for this audit! To chat with Docs Wolf: 
+- open a **private thread** in this channel
+- tag `@Docs Wolf` and ask a question.
+
+{Reactions}
+hi5 (6) 
+
+[09/29/2025 09:12] cloudellie
+Please note that the usual caveat about severity adjustments between High/Medium and Low applies for this competition. The attached note has been added to the audit repo.
+
+{Attachments}
+Code4rena - ARCHIVE-PUBLIC - layerzero-sep [1417100672666701875].txt_Files/image-2979B.png
+
+{Reactions}
+👀 (4) 
+
+[09/30/2025 20:02] C4
+**🚨 AUDIT ALERT**
+
+@🐺Wardens The **LayerZero Endpoint V2 - Sui** audit is now closed! Huge thanks to everyone who participated 🔍, whether you submitted a finding or not.
+
+What's next: The sponsor team and judge will review the findings over the next couple of weeks. Progress through the judging, awarding, and reporting phases can be tracked via [the audit page](https://code4rena.com/audits/2025-09-layerzero-endpoint-v2-sui).
+
+{Reactions}
+✅ (20) 👽 (5) 🤔 (8) 
+
+[10/17/2025 21:28] itsmetechjay
+🤑 🎉  Awards for **LayerZero Endpoint V2 - Sui**:
+
+$2,400 USDC » @Rhaydden
+$1,600 USDC » @K42 Ψ
+
+🏁 Findings summary
+--------------------------------------—
+0 High risk findings
+0 Med risk findings
+597 wardens participated
+
+Top QA report: Rhaydden
+
+Awards will be distributed on Ethereum within the next week. Congratulations all!  💸 💸 💸
+
+{Reactions}
+c4ship (5) 🫡 (2) 👽 (5) 👎 (10) 
+
+[12/03/2025 21:00] C4
+ℹ️ This channel is pending archive.   As a result, any private threads will be permanently deleted 12/12/2025 15:00. Please make sure to grab anything you might need before then.
+
+
+[12/11/2025 16:18] C4
+ℹ️ Reminder: this channel will be deleted after 24 hours.
+
+
+==============================================================
+Exported 8 message(s)
+==============================================================
